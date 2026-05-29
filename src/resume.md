@@ -162,6 +162,7 @@ All of it can be cloned or fork'd, the license is [Unlicensed](https://github.co
 
 The companies I've worked for of course own their respective logos, and other properties.
 
------
+---
 
-v3.1 - Ariadne Haske
+v3.2 - Ariadne Haske
+

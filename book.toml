@@ -5,7 +5,7 @@ description = "Network troubleshooting as art. 10+ years at Cisco, mostly in Cus
 [output.html]
 no-section-label = true
 cname = "ariadne.haske.org"
-git-repository-url = "https://github.com/Haske-org/ariadne-website"
+git-repository-url = "https://github.com/Haske-Info/resume-ariadne"
 
 [preprocessor.gitinfo]
 enable = true
